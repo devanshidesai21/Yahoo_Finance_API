@@ -1,6 +1,6 @@
-# YFinAPI
+# Yahoo Finance API
 
-YFinAPI is a REST API through which you can access Yahoo! finance data provided by YFinance library.
+YFinAPI(Yahoo Finnance API) is a REST API through which you can access Yahoo! finance data provided by YFinance library.
 
 ## REST API
 
